@@ -1,3 +1,3 @@
 +- 
-hi! i'm jood a 2nd year computer science student
+ i'm jood a computer science student
 +-
